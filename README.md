@@ -1,16 +1,11 @@
-# alcool_gasolina
+# Alcool ou Gasolina
 
-A new Flutter project.
+Um projeto feito para o curso gratuito "Flutter Apps: Álcool ou Gasolina" do balta.io.
 
-## Getting Started
+## Sobre o projeto
+Neste projeto, foram aplicados conceitos simples de separação de regras de negócio (BLoC), estruturação de pastas do projeto e gerência de estado simples com Set State, além de animação básica de mudança de cor.
 
-This project is a starting point for a Flutter application.
+## 🖼Atuais telas do projeto
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/85903292/133935336-410826f2-21e0-4b47-afd0-81facd1a387c.png)
+![image](https://user-images.githubusercontent.com/85903292/133935350-8b6e59d1-707a-4a84-a68e-7926f25a9b71.png)
